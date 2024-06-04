@@ -1,0 +1,14 @@
+
+Date: 2024-05-16 20:49:16.240628
+GT folder: G:/Experments/0509_stuff_darkcolmap_enhanceimage/train/ours_30000/gt/
+Render folder: G:/Experments/0509_stuff_darkcolmap_enhanceimage/train/ours_30000/renders/
+Average PSNR: 32.674337611427646
+Average SSIM: 0.9466125318944754
+----------------------------------------------------------------------------------------------------------
+Date: 2024-05-23 21:16:06.585496
+GT folder: G:/Experments/0509_stuff_darkcolmap_enhanceimage/train/ours_30000/gt/
+Render folder: G:/Experments/0428_stuff/train/ours_30000/renders/
+Average PSNR: 11.885180183419456
+Average SSIM: 0.40093647398364834
+----------------------------------------------------------------------------------------------------------
+
